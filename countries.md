@@ -1,62 +1,62 @@
 # Europe
 
 - [ ] AL Albania
-- [ ] AT Austria
+- [x] AT Austria
 - [x] BY Belarus
 - [ ] BE Belgium
 - [ ] BA Bosnia and Herzegovina
-- [ ] BG Bulgaria
+- [x] BG Bulgaria
 - [ ] HR Croatia
 - [x] CZ Czech Republic
-- [x] DK Denmark
-- [x] EE Estonia
+- [ ] DK Denmark
+- [ ] EE Estonia
 - [x] FI Finland
 - [x] FR France
 - [x] DE Germany
 - [ ] GR Greece
-- [ ] HU Hungary
+- [x] HU Hungary
 - [ ] IS Iceland
-- [ ] IE Ireland
+- [x] IE Ireland
 - [x] IT Italy
 - [ ] XK Kosovo
-- [x] LV Latvia
-- [x] LT Lithuania
-- [ ] LU Luxembourg
+- [ ] LV Latvia
+- [ ] LT Lithuania
+- [x] LU Luxembourg
 - [ ] MK Macedonia
-- [x] MD Moldova
+- [ ] MD Moldova
 - [ ] ME Montenegro
-- [x] NL Netherlands
+- [ ] NL Netherlands
 - [ ] NO Norway
 - [x] PL Poland
 - [x] PT Portugal
 - [ ] RO Romania
 - [ ] RS Serbia
-- [ ] SK Slovakia
+- [x] SK Slovakia
 - [ ] SI Slovenia
 - [x] ES Spain
-- [ ] SE Sweden
+- [x] SE Sweden
 - [x] CH Switzerland
 - [x] UA Ukraine
-- [x] GB United Kingdom
+- [ ] GB United Kingdom
 
 # Asia
 
 - [ ] AF Afghanistan
-- [x] AM Armenia
+- [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
 - [ ] BT Bhutan
 - [ ] BN Brunei Darussalam
-- [ ] CN China
+- [x] CN China
 - [ ] GE Georgia
 - [ ] IN India
-- [ ] ID Indonesia
+- [x] ID Indonesia
 - [ ] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
 - [x] JP Japan
 - [ ] JO Jordan
-- [ ] KZ Kazakhstan
+- [x] KZ Kazakhstan
 - [ ] KW Kuwait
 - [ ] KG Kyrgyzstan
 - [ ] LA Lao People's Democratic Republic
@@ -77,8 +77,8 @@
 - [ ] LK Sri Lanka
 - [ ] SY Syria
 - [ ] TW Taiwan
-- [ ] TJ Tajikistan
-- [x] TH Thailand
+- [x] TJ Tajikistan
+- [ ] TH Thailand
 - [ ] TL Timor-Leste
 - [ ] TR Turkey
 - [ ] TM Turkmenistan
@@ -89,7 +89,7 @@
 
 # North America
 
-- [ ] CA Canada
+- [x] CA Canada
 - [ ] GL Greenland
 - [x] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
@@ -124,7 +124,7 @@
 - [ ] GF French Guiana
 - [ ] GY Guyana
 - [ ] PY Paraguay
-- [x] PE Peru
+- [ ] PE Peru
 - [ ] SR Suriname
 - [ ] UY Uruguay
 - [ ] VE Venezuela
@@ -165,7 +165,7 @@
 - [ ] GH Ghana
 - [ ] GN Guinea
 - [ ] GW Guinea-Bissau
-- [x] KE Kenya
+- [ ] KE Kenya
 - [ ] LS Lesotho
 - [ ] LR Liberia
 - [ ] LY Libya
@@ -189,7 +189,7 @@
 - [ ] SZ Swaziland
 - [ ] TZ Tanzania
 - [ ] TG Togo
-- [x] TN Tunisia
+- [ ] TN Tunisia
 - [ ] UG Uganda
 - [ ] EH Western Sahara
 - [ ] ZM Zambia
